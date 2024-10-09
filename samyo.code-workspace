@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "samyo",
+			"path": "."
+		},
+		{
+			"name": "Class12",
+			"path": "../Class12"
+		},
+		{
+			"name": "ClassFiles",
+			"path": "../ClassFiles"
+		}
+	],
+	"settings": {}
+}
