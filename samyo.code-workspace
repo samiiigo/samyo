@@ -13,5 +13,10 @@
 			"path": "../ClassFiles"
 		}
 	],
-	"settings": {}
+	"settings": {
+		"files.associations": {
+			"iomanip": "cpp",
+			"iostream": "cpp"
+		}
+	}
 }
